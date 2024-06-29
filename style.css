@@ -20,5 +20,11 @@ body
   justify-content:center;
   background: linear gradient(to top , #0c7b93 0%, #008acc 100%);
 }
-
+.cgpa contanier
+{
+  heigth:auto;
+  width:500px;
+  border-radius:10px;
+}
+  
   
